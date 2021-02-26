@@ -220,6 +220,8 @@ var cnExcludePostfix = [
 var cnRegReplace = new Map([
     [/^requires ([\d\.]+) more research points$/, '需要$1个研究点'],
     [/^x([\d\.]+) Happiness$/, 'x$1 幸福值'],
+    [/^Your gut instinct was right. The moment you hit the grand age of 200, you hear an ominous hum coming from the amulet.\n(.+)A mouth emerges from its surface and begins to cackle, and proceeds to say: "So you've made it this far... Are you ready to embrace evil?"$/, '你的直觉是对的。当你到达200岁的时候，你会听到护身符发出不祥的嗡嗡声。一张嘴从它的表面露出来，咯咯地笑着说:“你已经走到这一步了……你准备好迎接邪恶了吗?”'],
+    [/^You stumble across a strange looking amulet on your 25th birthday. It does not look like\n(.+)it has any worth on the market given that it's made from cheap-looking copper. However, you\n(.+)feel a weird urge to keep the amulet, so you slip it into your pocket for safekeeping.$/, '你在25岁生日时偶然发现了一个奇怪的护身符。它看起来不像在市场上有任何价值，因为它是由看起来很便宜的铜制成的。然而，你有一种奇怪的冲动想要保存这个护身符，所以你把它放进口袋里妥善保管。'],
     [/^Cost: (\d+) RP$/, '成本：$1 皇家点数'],
     [/^Usages: (\d+)\/$/, '用途：$1\/'],
     [/^workers: (\d+)\/$/, '工人：$1\/'],
