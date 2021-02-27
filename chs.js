@@ -140,7 +140,7 @@ var cnItems = {
     'Blacksmith lvl': '铁匠等级',
     'Mana control lvl': '法力控制等级',
     'Muscle memory lvl': '肌肉记忆等级',
-    'Elite knight lvl': '学生等级',
+    'Elite knight lvl': '精英骑士等级',
     'Student lvl': '学生等级',
     'Apprentice mage lvl': '学徒法师等级',
     '': '',
