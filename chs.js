@@ -13,7 +13,7 @@ var cnItems = {
 
     //未分类：
     'Active': '激活',
-    'Age': '年龄',
+    'Age': '年龄:',
     'Beggar': '乞丐',
     'Beggar lvl': '乞丐等级',
     'House': '房子',
