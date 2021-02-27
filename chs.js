@@ -409,6 +409,7 @@ var cnRegReplace = new Map([
     [/^(\d+) \+ the max level of the skill or job \/ (\d+).$/, '$1 \+ 你的技能或工作的最高等级 \/ $2。'],
     [/^On your 45th birthday, you feel the amulet shiver uncontrollably in your pocket. You take it\n(.+)out and the constant shivering suddenly stops. More to your bizarre surprise, you notice\n(.+)a strange etching on the centre of the amulet.$/, '在你45岁生日的时候，你感觉到你口袋里的护身符在不受控制地颤抖。你把它拿出来，不停的颤抖突然停止了。更让你惊讶的是，你会注意到↵这个护身符的中心有一个奇怪的蚀刻。'],
     [/^By touching the eyeball, you will be reborn and have to restart life again, losing all your levels and coins.\n(.+)However, you will gain$/, '通过触摸眼球，你将获得重生，你将会失去所有等级和金币。然而,你会得到'],
+    [/^法力控制等级 (.+)，战斗战术等级 (.+), Holy knight level (.+)\/$/, '法力控制等级 $1，战斗战术等级 $2, 圣骑士等级 $3\/'],
     [/^Mana control level (\d+)\/(\d+), Student level (\d+)\/$/, '法力控制等级 $1\/$2，学生等级 $3\/'],
     [/^Battle tactics level (\d+)\/(\d+), Knight level (\d+)\/$/, '战斗战术等级 $1\/$2，骑士等级 $3\/'],
     [/^Battle tactics level (\d+)\/(\d+), Footman level (\d+)\/$/, '战斗战术等级 $1\/$2，步兵等级 $3\/'],
