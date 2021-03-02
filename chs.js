@@ -42,6 +42,7 @@ var cnItems = {
     'Jobs': '工作',
     'Skills': '技能',
     'Shop': '商店',
+    'Play': '继续',
     'Pause': '暂停',
     'Personal squire': '私人护卫',
     'Required: ': '要求: ',
