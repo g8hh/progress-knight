@@ -200,7 +200,7 @@ var cnItems = {
     'Slash and pierce through enemy soldiers with ease, while covered in steel from head to toe. A decently paying and very respectable job.': '从头到脚都裹着钢铁，轻松地刺穿敌军士兵。一份报酬丰厚、非常体面的工作。',
     'Sleep on the uncomfortable, filthy streets while almost freezing to death every night. It cannot get any worse than this.': '睡在不舒服、肮脏的街道上，每天晚上几乎冻死。不会比这更糟了。',
     'Smelt ores and carefully forge weapons for the military. A respectable and OK paying commoner job.': '为军队冶炼矿石，精心锻造武器。一份体面的、报酬不错的普通工作。',
-    'Something tells you that the amulet might transform even further after living for': '直觉告诉你，这个护身符在你重生之后可能会发生更大的变化',
+    'Something tells you that the amulet might transform even further after living for': '直觉告诉你，在你完成了第一次重生之后，如果你的年龄（当前年龄，不是寿命上限）超过200岁，这个护身符还可能会带来更大的变化',
     'Spend your days administrating The Arcane Association and investigate the concepts of true immortality. The chairman receives ludicrous amounts of pay daily.': '花时间管理你的神秘协会和调查的概念，真正的永生。会长每天收到的薪水多得可笑。',
     'Study the theory of mana and practice basic spells. There is minor pay to cover living costs, however, this is a necessary stage in becoming a mage.': '学习法术力理论并练习基本法术。 可以支付生活费用的少量薪水，但是，这是成为法师的必经阶段。',
     'Struggle day and night for a couple of copper coins. It feels like you are at the brink of death each day.': '昼夜不停地挣扎着几个铜币。 感觉就像您每天都处在死亡边缘。',
