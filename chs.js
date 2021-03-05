@@ -176,7 +176,6 @@ var cnItems = {
     '': '',
     '': '',
     '': '',
-    '': '',
     'Obliterate squadrons of enemy soldiers in one go with extraordinary proficiency, while equipped with the finest gear. Such a feared unit on the battlefield is paid extremely well.': '用最精良的装备，一次歼灭敌军中队。这样一支令人敬畏的部队在战场上的薪水非常高。',
     'Much larger than a regular house, which boasts even more rooms and multiple floors. The building is quite spacious but comes with a hefty price tag.': '比普通的房子大得多，普通的房子有更多的房间和多层。这栋建筑很宽敞，但价格不菲。',
     'Lengthen your lifespan through the means of magic. However, is this truly the immortality you have tried seeking for...?': '用魔法延长你的寿命。然而，这真的是你一直在寻找的永生吗?',
@@ -238,6 +237,7 @@ var cnItems = {
     'A building formed from stone bricks and sturdy timber, which contains a few rooms. Although quite expensive, it is a comfortable abode.': '用石头、砖和坚固的木材建造的建筑，里面有几个房间。虽然很贵，但这是一个舒适的住所。',
 
     //原样
+    '2 whole centuries': '',
     '': '',
     '': '',
 
@@ -444,7 +444,6 @@ var cnRegReplace = new Map([
     [/^(\d+)\/(\d+)k, Chairman level (.+)\/$/, '$1/$2k，会长等级 $3\/'],
     [/^(\d+)\/(.+), Battle tactics level (.+), Holy knight level (.+)\/$/, '$1/$2，战斗战术等级 $3，圣骑士等级 $4\/'],
     [/^(\d+) evil$/, '$1 邪恶'],
-    [/^(\d+) whole centuries$/, '整整 $1 世纪'],
     [/^Cost: (\d+) RP$/, '成本：$1 皇家点数'],
     [/^Usages: (\d+)\/$/, '用途：$1\/'],
     [/^workers: (\d+)\/$/, '工人：$1\/'],
